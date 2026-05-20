@@ -6,7 +6,7 @@
 
 ---
 
-## 🛠 What I work with
+##  What I work with
 
 | Domain | Stack |
 |---|---|
@@ -19,7 +19,7 @@
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 **[Appian Context-Aware Knowledge Engine](https://github.com/adwivedi0416/appian-context-aware-knowledge-engine)**
 Just-in-time knowledge retrieval for Appian case management — surfaces policy citations from
@@ -84,7 +84,7 @@ for real-time analytics and actionable reduction recommendations.
 
 ---
 
-## 📚 Research
+##  Research
 
 | Status | Paper |
 |---|---|
@@ -98,7 +98,7 @@ for real-time analytics and actionable reduction recommendations.
 
 ---
 
-## 🏆 Highlights
+##  Highlights
 
 - 🎓 Dean's List — 4th & 5th Semester · CGPA 8.62
 - 🥈 Semi-finalist — Adobe India Hackathon
