@@ -100,7 +100,7 @@ for real-time analytics and actionable reduction recommendations.
 
 ##  Highlights
 
-- 🎓 Dean's List — 4th & 5th Semester · CGPA 8.62
+- 🎓 Dean's List — 4th, 5th & 6th Semester · CGPA 8.8
 - 🥈 Semi-finalist — Adobe India Hackathon
 - 📜 IBM Business Analyst Professional · Microsoft AI & ML Engineering · AWS Data Analytics
 - 📜 Cisco DevNet Associate · Cisco CyberOps Associate · Red Hat RH294
