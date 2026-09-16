@@ -1,6 +1,6 @@
 # Hi, I'm Rudransh Dwivedi 👋
 
-3rd year B.Tech @ Manipal University Jaipur · AI/ML · Computer Vision · RAG Systems · Edge AI
+4th year B.Tech @ Manipal University Jaipur · AI/ML · Computer Vision · RAG Systems · Edge AI
 
 📄 2× Published researcher &nbsp;|&nbsp; 🔏 Indian Patent co-inventor &nbsp;|&nbsp; 🏆 Dean's List · CGPA 8.8
 
